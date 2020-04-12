@@ -1,7 +1,11 @@
 # core-java
 core java programs
 
-## Assignment 1
+# Problems for the Assignments
+
+## Assignment 1 (Matrix)
+Write a menu driven program to create two m x n matrix, populate it with random integers and display their sum and product. Also display the time taken by the computer for the product operation. Make use of classes, constructors and necessary methods. Test your program for 500x500 matrix and display the computational time for the product operation.
+
 ## Assignment 2 (Constructor, Inheritance, etc.)
 
 Define a class Graph that should model a Graph data structure and store its adjacency matrix, and have default (adjacency matrix should be a null matrix) as well as parameterized constructors. Graph class also has two method display() that displays the adjacency matrix, and isConnected() as predicate method that checks whether given graph is connected or not. Create two another classes namely DirectedGraph and WeightedGraph, both inherits Graph. DirectedGraph has two methods indegree() and outdegree() that calculates and indegree and outdegree of each node in the DirectedGraph. Similarly, WeightedGraph has a method shortestPath() that finds the shortest path between two given nodes using any of the algorithm known to you.
