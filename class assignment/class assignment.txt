@@ -1,0 +1,21 @@
+Java Theory Assignment MCA - III sem 
+
+Due date : 11 Nov 2019
+
+Question 1: How will you create your own collection 
+type explain it with a suitable programming example.
+
+Question 2: What do you mean by thread Synchronization.
+what are the possible ways available in java to handle the 
+Synchronization problem.
+
+Question 3: What is blocking Queue, explain the concept of 
+thread pooling and its application in the real life enterprise 
+applicaton development
+
+Question 4: Write a simple timer program that can periodically 
+print a timeout message.
+
+Question 5: What are the different types of Events used in 
+AWT/SWING programming. Explain various methods available for 
+handling mouse and key board related events.
